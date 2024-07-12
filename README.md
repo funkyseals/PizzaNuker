@@ -5,7 +5,7 @@ Sub to my [YouTube](https://www.youtube.com/@funkyowo):
 ### Download
 1. Download from bot.py from GitHub. 
 <sub>_If you haven't already, download python from [python.org](https://www.python.org/).
-Download pip too._</sub>
+Download [pip](https://pip.pypa.io/en/stable/installation/) too._</sub>
 2. Go to your terminal and run these commands:
 `pip install keyboard`
 `pip install discord`
