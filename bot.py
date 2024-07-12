@@ -51,15 +51,4 @@ async def nuke(ctx):
             except:
                 pass
         
-            
-    
-@bot.command()
-async def remove(ctx):
-    for c in ctx.guild.channels:
-        await c.delete()
-
-@bot.command()
-async def m(ctx):
-    print(ctx.guild.members)
-        
 bot.run(token)
