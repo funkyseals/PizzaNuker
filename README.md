@@ -1,6 +1,7 @@
 # PizzaNuker
 ## A nuke bot for Discord
 An easy to use nuke bot code for Discord, you can branch it and add what you want, but please don't make a branch of this of this if you aren't gonna change anything.
+
 Sub to my [YouTube](https://www.youtube.com/@funkyowo):
 ### Download
 1. Download from bot.py from GitHub. 
