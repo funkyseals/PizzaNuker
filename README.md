@@ -7,8 +7,10 @@ Sub to my [YouTube](https://www.youtube.com/@funkyowo):
 <sub>_If you haven't already, download python from [python.org](https://www.python.org/).
 Download [pip](https://pip.pypa.io/en/stable/installation/) too._</sub>
 2. Go to your terminal and run these commands:
-`pip install keyboard`
-`pip install discord`
+```
+pip install keyboard
+pip install discord
+```
 (The reason you have to get keyboard is because I make the terminal fullscreen on startup, press f11 again to go back to windowed)
 (If you dont like that, download botnokbmodule.py instead.)
 3. Then go to https://discord.com/developers/applications/ and make an application, then go to the bots tab and make a bot.
