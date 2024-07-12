@@ -11,8 +11,10 @@ Download [pip](https://pip.pypa.io/en/stable/installation/) too._</sub>
 pip install keyboard
 pip install discord
 ```
-(The reason you have to get keyboard is because I make the terminal fullscreen on startup, press f11 again to go back to windowed)
-(If you dont like that, download botnokbmodule.py instead.)
+<sub>_(The reason you have to get keyboard is because I make the terminal fullscreen on startup, press f11 again to go back to windowed)_</sub>
+
+<sub>_(If you dont like that, download botnokbmodule.py instead.)_</sub>
+
 3. Then go to https://discord.com/developers/applications/ and make an application, then go to the bots tab and make a bot.
 4. Copy the bot token and open the python program you downloaded in a text editor (literally anything, even Notepad.)
 5. Replace "Put your token here!" with your token (Do NOT remove the quotation marks.)
